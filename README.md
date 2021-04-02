@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snig0708
-- 👀 I’m interested in time series modelling.
-- 🌱 I’m currently learning computer vision and NLP.
-- 💞️ I’m looking to collaborate on computer vision projects uisng raspberry pi.
+- 👀 I’m interested in exploring different use cases within ML and currently I'm working on time series modeling.
+- 🌱 I’m currently learning A/B testing, image segmentation and NLP.
+- 💞️ I’m looking to collaborate on computer vision projects using raspberry pi.
 - 📫 How to reach me scheekoty@gmail.com
 
 <!---
